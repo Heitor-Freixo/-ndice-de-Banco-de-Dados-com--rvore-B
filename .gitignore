@@ -1,0 +1,14 @@
+# Arquivos compilados e executaveis
+*.o
+*.exe
+meu_sgbd
+teste_estresse
+
+# Pastas geradas por IDEs
+.vscode/
+.idea/
+
+# Arquivos de banco e log temporarios
+*.bin
+*.log
+vgcore.*
