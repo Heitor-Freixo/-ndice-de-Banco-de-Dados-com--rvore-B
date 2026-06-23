@@ -1,6 +1,6 @@
-# Indice de Banco de Dados com Arvore B [cite: 102]
+# Indice de Banco de Dados com Arvore B
 
-Trabalho interdisciplinar de Estrutura de Dados e Sistemas Operacionais (IFES - Campus Cachoeiro). [cite: 1, 4]
+Trabalho interdisciplinar de Estrutura de Dados e Sistemas Operacionais (IFES - Campus Cachoeiro). 
 
 ## Como Compilar
-A ser implementado via Makefile. [cite: 28, 59]
+A ser implementado via Makefile. 
