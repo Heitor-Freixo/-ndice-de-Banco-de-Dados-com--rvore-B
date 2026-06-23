@@ -6,4 +6,5 @@ Passamos por dificuldades em sincronizar o git com os arquivos do computador, ho
 
 ## 23/06/26
 o arquivo de execução rigida foi criado (makefile), qualquer compilação deve passar por seus critérios (-Wall -Wextra -Werror)
-
+definida a arquitetura do projeto. Optou-se pelo tamanho de página de 4096 bytes (bloco de memória virtual) para espelhar os blocos do sistema operacional
+s
